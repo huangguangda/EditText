@@ -1,0 +1,9 @@
+<resources>
+    <string name="hello">Hello World, Calculater!</string>
+    <string name="app_name">Calculater</string>
+    <string name="symbol">除以</string>
+    <string name="calculate">计算结果</string>
+    <string name="result">计算结果</string>
+    <string name="exit">退出</string>
+    <string name="about">帮助</string>
+</resources>
